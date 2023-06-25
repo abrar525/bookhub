@@ -1,0 +1,28 @@
+.footer-section {
+  background-color: #f5f7fa;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-title {
+  text-align: center;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #3d3c3c;
+}
+
+.row {
+  gap: 20px;
+  display: flex;
+}
+
+.darkBg {
+  background-color: #000;
+  color: #fff;
+}
+
+.links {
+  text-decoration: none;
+  color: #3d3c3c;
+}
